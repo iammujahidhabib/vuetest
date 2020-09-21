@@ -26,7 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Expected Output :
 ![expected](./src/assets/Expected.png)
 
-## Error pertama karena ada ketidaksamaan pendeklarasian setData dan setData harusnya sama.
+## Error pertama karena ada ketidaksamaan pendeklarasian setData dan setDatas harusnya sama.
 
 ## failed to compile.Module Error (from ./node_modules/eslint-loader/index.js):  diselesaikan dengan cara menaruh /* eslint-disable * di paling atas file script Users.Vue
 
